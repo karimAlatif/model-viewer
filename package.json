@@ -17,7 +17,6 @@
     "react-dom": "^17.0.1",
     "react-easy-sort": "^1.2.0",
     "react-scripts": "4.0.0",
-    "react-to-pdf": "0.0.14",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
