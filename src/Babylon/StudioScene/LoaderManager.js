@@ -16,11 +16,11 @@ export default class LoaderManager {
       "model_task",
       "",
       `./models/IndianWoman/`,
-      `IndianWoman.gltf`
+      `Model.gltf`
     );
     model_task.onSuccess = (task) => {
       let rootMesh = task.loadedMeshes.find((mesh) => mesh.name === "__root__");
-      rootMesh.scaling = new BABYLON.Vector3(.15, .15, -.15);
+      rootMesh.scaling = new BABYLON.Vector3(5, 5, -5);
       this.sceneManager.currentCart = rootMesh;
 
       for (let j = 0; j < task.loadedMeshes.length; j++) {

@@ -92,7 +92,7 @@ export default class StudioSceneManager {
     this.mainCamera.lowerRadiusLimit = 35;
     this.mainCamera.upperRadiusLimit = 85;
 
-    this.mainCamera.lowerBetaLimit = 0.85;
+    this.mainCamera.lowerBetaLimit = 0.2;
     this.mainCamera.upperBetaLimit = 1.5;
 
     this.mainCamera.minZ = 0.2;
@@ -168,7 +168,8 @@ export default class StudioSceneManager {
     this.scene.environmentTexture = skyboxCubecTexture;
     this.scene.environmentTexture.level = 1;
     this.scene.environmentTexture.rotationY = 1.482;
-
+    this.scene.environmentIntensity = .45;
+    
     //Mirror
     this.mirror = new BABYLON.MirrorTexture("mirror", 512, this.scene);
     this.mirror.mirrorPlane = new BABYLON.Plane(0, -1, 0, 0);
