@@ -15,12 +15,13 @@ export default class LoaderManager {
     let model_task = this.assetsManager.addMeshTask(
       "model_task",
       "",
-      `./models/IndianWoman/`,
-      `Model.gltf`
+      `./models/test/`,
+      `901117.gltf`
     );
     model_task.onSuccess = (task) => {
       let rootMesh = task.loadedMeshes.find((mesh) => mesh.name === "__root__");
-      rootMesh.scaling = new BABYLON.Vector3(5, 5, -5);
+      rootMesh.scaling = new BABYLON.Vector3(30, 30, -30);
+      rootMesh.position.y = -217.5;
       this.sceneManager.currentCart = rootMesh;
 
       for (let j = 0; j < task.loadedMeshes.length; j++) {

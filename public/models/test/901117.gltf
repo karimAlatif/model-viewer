@@ -1,0 +1,1609 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "babylon.js glTF exporter for 3dsmax 2023 v20220628.14"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "translation": [
+        0.00745267,
+        7.60728741,
+        4.906517E-08
+      ],
+      "rotation": [
+        -0.4999999,
+        -0.5000001,
+        0.5000002,
+        -0.4999999
+      ],
+      "name": "Fillet036"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        -0.0212321822,
+        7.60268259,
+        5.77277568E-08
+      ],
+      "rotation": [
+        -0.4999999,
+        -0.5000001,
+        0.5000002,
+        -0.4999999
+      ],
+      "name": "<131593>-<Cut-Extrude8>007"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        0.239389628,
+        7.334391,
+        -2.09778452E-08
+      ],
+      "rotation": [
+        -0.63617444,
+        0.3086779,
+        0.6361746,
+        0.3086777
+      ],
+      "scale": [
+        1.00000036,
+        1.0000006,
+        0.9999999
+      ],
+      "name": "Boss-Extrude032"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        0.2470238,
+        7.93393326,
+        -2.32833024E-08
+      ],
+      "rotation": [
+        -0.5213335,
+        -0.477714717,
+        0.521334,
+        -0.47771427
+      ],
+      "scale": [
+        0.99999994,
+        0.99999994,
+        1.00000012
+      ],
+      "name": "Boss-Extrude034"
+    },
+    {
+      "mesh": 4,
+      "translation": [
+        0.2630945,
+        7.645551,
+        -2.8136526E-08
+      ],
+      "rotation": [
+        -0.4999999,
+        -0.5000001,
+        0.5000002,
+        -0.4999999
+      ],
+      "name": "Boss-Extrude033"
+    },
+    {
+      "mesh": 5,
+      "translation": [
+        0.01349375,
+        7.31518745,
+        4.724081E-08
+      ],
+      "rotation": [
+        0.50000006,
+        0.50000006,
+        0.499999851,
+        0.50000006
+      ],
+      "scale": [
+        1.0,
+        0.999999642,
+        0.999999642
+      ],
+      "name": "Fillet038"
+    },
+    {
+      "mesh": 6,
+      "translation": [
+        0.0173925553,
+        7.297111,
+        -0.04356143
+      ],
+      "rotation": [
+        -0.6408564,
+        -0.6408563,
+        0.298836231,
+        0.29883644
+      ],
+      "scale": [
+        1.0,
+        0.9999999,
+        0.9999999
+      ],
+      "name": "Revolve014"
+    },
+    {
+      "mesh": 6,
+      "translation": [
+        0.01739258,
+        7.297111,
+        0.04356152
+      ],
+      "rotation": [
+        -0.422618181,
+        -7.95898245E-07,
+        0.9063079,
+        -3.71133353E-07
+      ],
+      "scale": [
+        1.00000024,
+        1.0,
+        1.00000024
+      ],
+      "name": "Revolve015"
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        0.10027542,
+        7.90954733,
+        -0.1377018
+      ],
+      "rotation": [
+        -0.449683517,
+        -0.5502261,
+        -0.490743279,
+        0.504189551
+      ],
+      "scale": [
+        1.00000036,
+        0.9999998,
+        1.00000012
+      ],
+      "name": "CirPattern080"
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        0.10027542,
+        7.74714231,
+        -0.1377018
+      ],
+      "rotation": [
+        -0.2732473,
+        -0.6742821,
+        -0.2981971,
+        0.6178658
+      ],
+      "scale": [
+        0.9999999,
+        0.999999762,
+        1.00000012
+      ],
+      "name": "CirPattern078"
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        0.10027542,
+        7.52466154,
+        -0.1377018
+      ],
+      "rotation": [
+        -0.334702253,
+        -0.6404376,
+        -0.365263343,
+        0.5868533
+      ],
+      "scale": [
+        1.00000012,
+        1.0,
+        1.00000012
+      ],
+      "name": "CirPattern079"
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        0.10027542,
+        7.41043758,
+        -0.1377018
+      ],
+      "rotation": [
+        -0.432095736,
+        -0.5667616,
+        -0.4715493,
+        0.5193417
+      ],
+      "scale": [
+        1.0,
+        1.00000048,
+        0.999999642
+      ],
+      "name": "CirPattern085"
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        0.06195976,
+        7.30452776,
+        -0.08992911
+      ],
+      "rotation": [
+        -0.5315157,
+        -0.690440238,
+        -0.15261811,
+        0.466359347
+      ],
+      "scale": [
+        1.00000036,
+        1.00000012,
+        0.999999762
+      ],
+      "name": "CirPattern082"
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        0.04996737,
+        7.9620223,
+        -0.0619379319
+      ],
+      "rotation": [
+        0.633696,
+        -0.6915583,
+        0.255588323,
+        -0.234203368
+      ],
+      "scale": [
+        1.00000012,
+        1.0,
+        1.00000012
+      ],
+      "name": "CirPattern081"
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        0.04996742,
+        7.9620223,
+        0.0619380064
+      ],
+      "rotation": [
+        0.633696,
+        -0.6915583,
+        0.255588323,
+        -0.234203368
+      ],
+      "scale": [
+        1.00000012,
+        1.0,
+        1.00000012
+      ],
+      "name": "CirPattern083"
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        0.100275517,
+        7.90954733,
+        0.137701839
+      ],
+      "rotation": [
+        -0.635907352,
+        -0.24896194,
+        0.693971,
+        -0.2281317
+      ],
+      "scale": [
+        1.00000024,
+        1.0,
+        0.999999762
+      ],
+      "name": "CirPattern084"
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        0.100275517,
+        7.70690632,
+        0.137701839
+      ],
+      "rotation": [
+        -0.4621832,
+        -0.5377492,
+        0.504384637,
+        -0.492756277
+      ],
+      "scale": [
+        1.00000048,
+        1.00000012,
+        1.00000012
+      ],
+      "name": "CirPattern074"
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        0.100275517,
+        7.52466154,
+        0.137701839
+      ],
+      "rotation": [
+        0.4410413,
+        0.5584948,
+        -0.4813123,
+        0.511766136
+      ],
+      "scale": [
+        1.00000036,
+        1.00000036,
+        0.9999998
+      ],
+      "name": "CirPattern077"
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        0.100275517,
+        7.41043758,
+        0.137701839
+      ],
+      "rotation": [
+        0.188821673,
+        0.7078955,
+        -0.2060628,
+        0.6486667
+      ],
+      "scale": [
+        1.00000083,
+        1.0,
+        0.9999998
+      ],
+      "name": "CirPattern075"
+    },
+    {
+      "mesh": 7,
+      "translation": [
+        0.0619598068,
+        7.30452776,
+        0.08992918
+      ],
+      "rotation": [
+        0.4082859,
+        0.7069984,
+        0.0123804137,
+        0.5773237
+      ],
+      "scale": [
+        1.00000012,
+        1.00000012,
+        1.00000012
+      ],
+      "name": "CirPattern076"
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        0.09988801,
+        7.90954733,
+        -0.1332737
+      ],
+      "rotation": [
+        -0.493231863,
+        -0.5477386,
+        0.506677747,
+        0.44719398
+      ],
+      "scale": [
+        1.00000048,
+        1.0,
+        1.00000024
+      ],
+      "name": "Extrude184"
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        0.09988801,
+        7.74714231,
+        -0.1332737
+      ],
+      "rotation": [
+        -0.3139294,
+        -0.658549249,
+        0.6335995,
+        0.257512957
+      ],
+      "scale": [
+        1.00000024,
+        1.00000024,
+        1.0000006
+      ],
+      "name": "Extrude186"
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        0.09988801,
+        7.52466154,
+        -0.1332737
+      ],
+      "rotation": [
+        -0.37677446,
+        -0.6289267,
+        0.5983652,
+        0.323189557
+      ],
+      "scale": [
+        0.99999994,
+        1.00000024,
+        1.00000024
+      ],
+      "name": "Extrude188"
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        0.09988801,
+        7.41043758,
+        -0.1332737
+      ],
+      "rotation": [
+        -0.475531667,
+        -0.562779367,
+        0.5233257,
+        0.4281114
+      ],
+      "scale": [
+        0.9999999,
+        0.99999994,
+        0.9999996
+      ],
+      "name": "Extrude194"
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        0.06195976,
+        7.307157,
+        -0.08634545
+      ],
+      "rotation": [
+        -0.4541074,
+        -0.388950676,
+        0.767849147,
+        0.230025113
+      ],
+      "scale": [
+        1.00000012,
+        0.999999762,
+        1.00000024
+      ],
+      "name": "Extrude196"
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        0.0495799929,
+        7.957594,
+        -0.0619379319
+      ],
+      "rotation": [
+        0.0182385184,
+        0.417731,
+        -0.0396233052,
+        0.907523155
+      ],
+      "scale": [
+        1.00000024,
+        0.9999999,
+        1.00000024
+      ],
+      "name": "Extrude197"
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        0.04958004,
+        7.957594,
+        0.0619380064
+      ],
+      "rotation": [
+        0.0182385184,
+        0.417731,
+        -0.0396233052,
+        0.907523155
+      ],
+      "scale": [
+        1.00000024,
+        0.9999999,
+        1.00000024
+      ],
+      "name": "Extrude193"
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        0.09988811,
+        7.90954733,
+        0.133273751
+      ],
+      "rotation": [
+        -0.209514886,
+        0.6545239,
+        0.6753544,
+        -0.267578661
+      ],
+      "scale": [
+        1.00000036,
+        1.00000024,
+        1.00000036
+      ],
+      "name": "Extrude191"
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        0.09988811,
+        7.70690632,
+        0.133273751
+      ],
+      "rotation": [
+        0.4941523,
+        -0.460787684,
+        -0.5057801,
+        0.5363532
+      ],
+      "scale": [
+        1.00000012,
+        1.00000036,
+        1.00000048
+      ],
+      "name": "Extrude171"
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        0.09988811,
+        7.52466154,
+        0.133273751
+      ],
+      "rotation": [
+        0.514995039,
+        -0.437812567,
+        -0.484541059,
+        0.555265844
+      ],
+      "scale": [
+        0.99999994,
+        1.00000024,
+        1.00000048
+      ],
+      "name": "Extrude179"
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        0.09988811,
+        7.41043758,
+        0.133273751
+      ],
+      "rotation": [
+        0.669660568,
+        -0.167827785,
+        -0.227056727,
+        0.6869016
+      ],
+      "scale": [
+        1.00000024,
+        1.00000024,
+        0.9999998
+      ],
+      "name": "Extrude177"
+    },
+    {
+      "mesh": 8,
+      "translation": [
+        0.0619598068,
+        7.307157,
+        0.08634551
+      ],
+      "rotation": [
+        -0.852494061,
+        0.133115336,
+        0.262790233,
+        -0.431828141
+      ],
+      "scale": [
+        1.0,
+        0.999999642,
+        1.0
+      ],
+      "name": "Extrude180"
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.09988801,
+        7.90954733,
+        -0.1332737
+      ],
+      "rotation": [
+        -0.493231863,
+        -0.5477386,
+        0.506677747,
+        0.44719398
+      ],
+      "scale": [
+        1.00000048,
+        1.0,
+        1.00000024
+      ],
+      "name": "Extrude185"
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.09988801,
+        7.74714231,
+        -0.1332737
+      ],
+      "rotation": [
+        -0.3139294,
+        -0.658549249,
+        0.6335995,
+        0.257512957
+      ],
+      "scale": [
+        1.00000024,
+        1.00000024,
+        1.0000006
+      ],
+      "name": "Extrude187"
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.09988801,
+        7.52466154,
+        -0.1332737
+      ],
+      "rotation": [
+        -0.37677446,
+        -0.6289267,
+        0.5983652,
+        0.323189557
+      ],
+      "scale": [
+        0.99999994,
+        1.00000024,
+        1.00000024
+      ],
+      "name": "Extrude183"
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.09988801,
+        7.41043758,
+        -0.1332737
+      ],
+      "rotation": [
+        -0.475531667,
+        -0.562779367,
+        0.5233257,
+        0.4281114
+      ],
+      "scale": [
+        0.9999999,
+        0.99999994,
+        0.9999996
+      ],
+      "name": "Extrude195"
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.06195976,
+        7.307157,
+        -0.08634545
+      ],
+      "rotation": [
+        -0.4541074,
+        -0.388950676,
+        0.767849147,
+        0.230025113
+      ],
+      "scale": [
+        1.00000012,
+        0.999999762,
+        1.00000024
+      ],
+      "name": "Extrude189"
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.0495799929,
+        7.957594,
+        -0.0619379319
+      ],
+      "rotation": [
+        0.0182385184,
+        0.417731,
+        -0.0396233052,
+        0.907523155
+      ],
+      "scale": [
+        1.00000024,
+        0.9999999,
+        1.00000024
+      ],
+      "name": "Extrude198"
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.04958004,
+        7.957594,
+        0.0619380064
+      ],
+      "rotation": [
+        0.0182385184,
+        0.417731,
+        -0.0396233052,
+        0.907523155
+      ],
+      "scale": [
+        1.00000024,
+        0.9999999,
+        1.00000024
+      ],
+      "name": "Extrude190"
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.09988811,
+        7.90954733,
+        0.133273751
+      ],
+      "rotation": [
+        -0.209514886,
+        0.6545239,
+        0.6753544,
+        -0.267578661
+      ],
+      "scale": [
+        1.00000036,
+        1.00000024,
+        1.00000036
+      ],
+      "name": "Extrude192"
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.09988811,
+        7.70690632,
+        0.133273751
+      ],
+      "rotation": [
+        0.4941523,
+        -0.460787684,
+        -0.5057801,
+        0.5363532
+      ],
+      "scale": [
+        1.00000012,
+        1.00000036,
+        1.00000048
+      ],
+      "name": "Extrude174"
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.09988811,
+        7.52466154,
+        0.133273751
+      ],
+      "rotation": [
+        0.514995039,
+        -0.437812567,
+        -0.484541059,
+        0.555265844
+      ],
+      "scale": [
+        0.99999994,
+        1.00000024,
+        1.00000048
+      ],
+      "name": "Extrude175"
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.09988811,
+        7.41043758,
+        0.133273751
+      ],
+      "rotation": [
+        0.669660568,
+        -0.167827785,
+        -0.227056727,
+        0.6869016
+      ],
+      "scale": [
+        1.00000024,
+        1.00000024,
+        0.9999998
+      ],
+      "name": "Extrude176"
+    },
+    {
+      "mesh": 9,
+      "translation": [
+        0.0619598068,
+        7.307157,
+        0.08634551
+      ],
+      "rotation": [
+        -0.852494061,
+        0.133115336,
+        0.262790233,
+        -0.431828141
+      ],
+      "scale": [
+        1.0,
+        0.999999642,
+        1.0
+      ],
+      "name": "Extrude173"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 0
+        }
+      ],
+      "name": "Fillet036"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7
+          },
+          "indices": 4,
+          "material": 1
+        }
+      ],
+      "name": "<131593>-<Cut-Extrude8>007"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 9,
+            "NORMAL": 10,
+            "TEXCOORD_0": 11
+          },
+          "indices": 8,
+          "material": 2
+        }
+      ],
+      "name": "Boss-Extrude032"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 13,
+            "NORMAL": 14,
+            "TEXCOORD_0": 15
+          },
+          "indices": 12,
+          "material": 2
+        }
+      ],
+      "name": "Boss-Extrude034"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 17,
+            "NORMAL": 18,
+            "TEXCOORD_0": 19
+          },
+          "indices": 16,
+          "material": 0
+        }
+      ],
+      "name": "Boss-Extrude033"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 21,
+            "NORMAL": 22,
+            "TEXCOORD_0": 23
+          },
+          "indices": 20,
+          "material": 3
+        }
+      ],
+      "name": "Fillet038"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 25,
+            "NORMAL": 26,
+            "TEXCOORD_0": 27
+          },
+          "indices": 24,
+          "material": 3
+        }
+      ],
+      "name": "Revolve014"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 29,
+            "NORMAL": 30,
+            "TEXCOORD_0": 31
+          },
+          "indices": 28,
+          "material": 0
+        }
+      ],
+      "name": "CirPattern080"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 33,
+            "NORMAL": 34,
+            "TEXCOORD_0": 35
+          },
+          "indices": 32,
+          "material": 0
+        }
+      ],
+      "name": "Extrude184"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 37,
+            "NORMAL": 38,
+            "TEXCOORD_0": 39
+          },
+          "indices": 36,
+          "material": 0
+        }
+      ],
+      "name": "Extrude185"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 49692,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 38323,
+      "max": [
+        0.126646176,
+        0.100623235,
+        0.34671
+      ],
+      "min": [
+        -0.126646176,
+        -0.00745266536,
+        -0.34671
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 459876,
+      "componentType": 5126,
+      "count": 38323,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 38323,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 99384,
+      "componentType": 5123,
+      "count": 12660,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 919752,
+      "componentType": 5126,
+      "count": 3742,
+      "max": [
+        0.1317625,
+        0.2891517,
+        0.3477281
+      ],
+      "min": [
+        -0.1317625,
+        0.02032,
+        -0.356894732
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 964656,
+      "componentType": 5126,
+      "count": 3742,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 306584,
+      "componentType": 5126,
+      "count": 3742,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 124704,
+      "componentType": 5123,
+      "count": 36,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1009560,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        0.0936625,
+        0.092075,
+        0.000762
+      ],
+      "min": [
+        -0.0936625,
+        -3.421663E-17,
+        -0.000762
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1009848,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 336520,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 124776,
+      "componentType": 5123,
+      "count": 36,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1010136,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        0.112313822,
+        0.0,
+        0.000762
+      ],
+      "min": [
+        -0.112313822,
+        -0.15875,
+        -0.000762
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1010424,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 336712,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 124848,
+      "componentType": 5123,
+      "count": 36,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1010712,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        0.10795,
+        0.00165,
+        0.2667
+      ],
+      "min": [
+        -0.10795,
+        -0.00165,
+        -0.2667
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1011000,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 336904,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 124920,
+      "componentType": 5123,
+      "count": 2604,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1011288,
+      "componentType": 5126,
+      "count": 887,
+      "max": [
+        0.03175,
+        0.0190499984,
+        9.197124E-19
+      ],
+      "min": [
+        -0.03175,
+        -0.0190499984,
+        -0.0160337482
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1021932,
+      "componentType": 5126,
+      "count": 887,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 337096,
+      "componentType": 5126,
+      "count": 887,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 130128,
+      "componentType": 5123,
+      "count": 4776,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1032576,
+      "componentType": 5126,
+      "count": 1106,
+      "max": [
+        0.016622141,
+        0.01666875,
+        0.00555625
+      ],
+      "min": [
+        -0.016622141,
+        -0.01666875,
+        -0.00555625
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1045848,
+      "componentType": 5126,
+      "count": 1106,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 344192,
+      "componentType": 5126,
+      "count": 1106,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 139680,
+      "componentType": 5123,
+      "count": 2280,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1059120,
+      "componentType": 5126,
+      "count": 622,
+      "max": [
+        0.023495,
+        0.006248401,
+        0.006221746
+      ],
+      "min": [
+        5.292494E-05,
+        -0.006248401,
+        -0.006221746
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1066584,
+      "componentType": 5126,
+      "count": 622,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 353040,
+      "componentType": 5126,
+      "count": 622,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 144240,
+      "componentType": 5123,
+      "count": 864,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1074048,
+      "componentType": 5126,
+      "count": 304,
+      "max": [
+        0.0127,
+        0.0,
+        0.0126644885
+      ],
+      "min": [
+        -0.0127,
+        -0.0009017,
+        -0.0126644885
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1077696,
+      "componentType": 5126,
+      "count": 304,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 358016,
+      "componentType": 5126,
+      "count": 304,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 145968,
+      "componentType": 5123,
+      "count": 864,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1081344,
+      "componentType": 5126,
+      "count": 304,
+      "max": [
+        0.012065,
+        -0.0009017,
+        0.0120312637
+      ],
+      "min": [
+        -0.012065,
+        -0.0024257,
+        -0.0120312637
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1084992,
+      "componentType": 5126,
+      "count": 304,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 360448,
+      "componentType": 5126,
+      "count": 304,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 147696,
+      "name": "bufferViewScalar"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 147696,
+      "byteLength": 1088640,
+      "byteStride": 12,
+      "name": "bufferViewFloatVec3"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1236336,
+      "byteLength": 362880,
+      "byteStride": 8,
+      "name": "bufferViewFloatVec2"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "901117.bin",
+      "byteLength": 1599216
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0784313753,
+          0.0392156877,
+          0.0196078438,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      },
+      "doubleSided": true,
+      "name": "Paint_Brown_NoBump",
+      "extras": {
+        "babylonSeparateCullingPass": false
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0784313753,
+          0.0392156877,
+          0.0196078438,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      },
+      "normalTexture": {
+        "index": 0,
+        "scale": 0.15
+      },
+      "doubleSided": true,
+      "name": "Paint_Brown",
+      "extras": {
+        "babylonSeparateCullingPass": false
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      },
+      "doubleSided": true,
+      "name": "Paint_Brown_Screen",
+      "extras": {
+        "babylonSeparateCullingPass": false
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.007843138,
+          0.007843138,
+          0.007843138,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      },
+      "doubleSided": true,
+      "name": "Rubber",
+      "extras": {
+        "babylonSeparateCullingPass": false
+      }
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "Orange Peel Normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 1,
+      "name": "Circle Mesh.jpg"
+    }
+  ],
+  "images": [
+    {
+      "uri": "Orange Peel Normal.jpg"
+    },
+    {
+      "uri": "Circle Mesh.jpg"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ]
+}

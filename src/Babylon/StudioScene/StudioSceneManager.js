@@ -84,7 +84,7 @@ export default class StudioSceneManager {
       2.0,
       1.28,
       60.5,
-      new BABYLON.Vector3(0, 15, 0),
+      new BABYLON.Vector3(-3.5, 10, 0),
       this.scene
     );
     this.mainCamera.attachControl(this.game.canvas, true);
@@ -102,15 +102,15 @@ export default class StudioSceneManager {
     this.mainCamera.wheelPrecision = 20;
     this.mainCamera.useBouncingBehavior = true;
 
-    this.staticCamera = new BABYLON.ArcRotateCamera(
-      "staticCamera",
-      2.0,
-      1.28,
-      6.5,
-      new BABYLON.Vector3(0, 0, 0),
-      this.scene
-    );
-    this.staticCamera.target = new BABYLON.Vector3(0, 1.5, -0.0);
+    // this.staticCamera = new BABYLON.ArcRotateCamera(
+    //   "staticCamera",
+    //   2.0,
+    //   1.28,
+    //   6.5,
+    //   new BABYLON.Vector3(0, 0, 0),
+    //   this.scene
+    // );
+    // this.staticCamera.target = new BABYLON.Vector3(0, 0, -0.0);
   }
   setUpEnvironMent() {
     // let hemiLight = new BABYLON.HemisphericLight(
@@ -122,7 +122,7 @@ export default class StudioSceneManager {
 
     let dirLight = new BABYLON.DirectionalLight(
       "DirectionalLight",
-      new BABYLON.Vector3(0, -1, 0.3),
+      new BABYLON.Vector3(-1, -1, 0.3),
       this.scene
     );
     dirLight.position = new BABYLON.Vector3(3, 9, 3);
@@ -138,9 +138,11 @@ export default class StudioSceneManager {
     this.shadowGenerator.blurScale = 64;
     this.shadowGenerator.setDarkness(3);
 
-    dirLight.intensity = 0.1;
+    dirLight.intensity = 0.3;
     dirLight.shadowMinZ = 0;
     dirLight.shadowMaxZ = 700;
+
+    // let cc = BABYLON.MeshBuilder.CreateBox("ddd",{size:10},this.scene)
 
     // Our built-in 'ground' shape. Params: name, width, depth, subdivs, scene
     let ground = BABYLON.Mesh.CreateGround("ground1", 90, 90, 250, this.scene);
@@ -168,7 +170,7 @@ export default class StudioSceneManager {
     this.scene.environmentTexture = skyboxCubecTexture;
     this.scene.environmentTexture.level = 1;
     this.scene.environmentTexture.rotationY = 1.482;
-    this.scene.environmentIntensity = .45;
+    this.scene.environmentIntensity = .85;
     
     //Mirror
     this.mirror = new BABYLON.MirrorTexture("mirror", 512, this.scene);
@@ -178,7 +180,7 @@ export default class StudioSceneManager {
     backgroundMaterial.reflectionTexture = this.mirror;
     backgroundMaterial.reflectionFresnel = true;
     backgroundMaterial.reflectionStandardFresnelWeight = 0.85;
-    backgroundMaterial.reflectionTexture.level = .85;
+    backgroundMaterial.reflectionTexture.level = 1;
     ground.material = backgroundMaterial;
   }
   //#endregion
